@@ -1,0 +1,7 @@
+git init --initialize a local reposetory in tour system
+git remove add origin <link of your repo> -- this will link your github reposetory with local reposetory
+git remote show origin -- to check 
+
+git branch -- to show all the branches
+git branch <branch Name> -- to add a new branch
+git switch <branch Name> -- to switch between branches
